@@ -4,3 +4,5 @@
 3. We have modified the last layer of architecture to make output class as pool only.
 
 ![image](https://user-images.githubusercontent.com/78314796/173182055-b8f7e2b1-73dd-4ad3-877d-c318ece2701a.png)
+                         
+4. *Download the model weights from the link* https://drive.google.com/drive/folders/1GksDhdWaergdyH2GKTcb0mxu0CyT1nMk?usp=sharing 
